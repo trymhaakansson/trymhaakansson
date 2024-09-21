@@ -25,7 +25,7 @@ I'm a **Cloud Security Consultant** specializing in securing **Microsoft cloud e
 - **Challenges**: Tackling policy exclusions and identifying security blind spots.
 
 ### **2. Microsoft Sentinel Workbook**
-- **Objective**: Building a comprehensive security monitoring workbook for a Managed Security Service Provider (MSSP) using **Azure Lighthouse**.
+- **Objective**: Building a comprehensive security monitoring workbook for a Managed Security Service Provider  using **Azure Lighthouse**.
 
 ## 📚 Currently Learning
 
